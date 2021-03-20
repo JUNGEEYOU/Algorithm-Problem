@@ -12,13 +12,13 @@
 
 [백준 문제집](https://www.acmicpc.net/workbook/view/7277)
 
-|          순번          |        추천 문제         |        문제 이름         |         난이도          |        풀이 링크         |        풀이 상태       |   
+|          순번          |        추천 문제         |        문제 이름         |         난이도          |        풀이 링크         |        풀이 상       |   
 | :-----: | :-----: | :-----: | :-----: | :-----: |:-----: |
 | 00 |  :heavy_check_mark:  | <a href="http://boj.kr/1789" target="_blank">수들의 합</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      |      ![status][TODO]               |
 | 01 |  :heavy_check_mark:  | <a href="http://boj.kr/2417" target="_blank">정수 제곱근</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      |                      |
 | 02 |  :heavy_check_mark:  | <a href="http://boj.kr/10815" target="_blank">숫자 카드</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      |                      |
 | 03 |  :heavy_check_mark:  | <a href="http://boj.kr/2805" target="_blank">나무 자르기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |                      |
-| 04 |  :heavy_check_mark:  | <a href="http://boj.kr/1654" target="_blank">랜선 자르기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |                      |
+| 04 |  :heavy_check_mark:  | <a href="http://boj.kr/1654" target="_blank">랜선 자르기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |  [바로가기](/baekjoon/1654.py)       |   ![status][DONE]                    |
 | 05 |  :heavy_check_mark:  | <a href="http://boj.kr/2512" target="_blank">예산</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |                      |
 | 06 |  :heavy_check_mark:  | <a href="http://boj.kr/19637" target="_blank">IF문 좀 대신 써줘</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |                      |
 | 07 |  :heavy_check_mark:  | <a href="http://boj.kr/11663" target="_blank">선분 위의 점</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |                      |
@@ -79,7 +79,7 @@
 | 62 |                      | <a href="http://boj.kr/1561" target="_blank">놀이 공원</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |                      |
 | 63 |                      | <a href="http://boj.kr/15732" target="_blank">도토리 숨기기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |                      |
 | 64 |                      | <a href="http://boj.kr/6209" target="_blank">제자리 멀리뛰기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |                      |
-
+![status][TODO] 
 
 [TODO]: https://img.shields.io/badge/-TODO-DFFD26
 [DOING]: https://img.shields.io/badge/-DOING-31AE0F
