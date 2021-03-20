@@ -79,6 +79,8 @@
 | 62 |                      | <a href="http://boj.kr/1561" target="_blank">놀이 공원</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |                      |
 | 63 |                      | <a href="http://boj.kr/15732" target="_blank">도토리 숨기기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |                      |
 | 64 |                      | <a href="http://boj.kr/6209" target="_blank">제자리 멀리뛰기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |                      |
+
+
 [TODO]: https://img.shields.io/badge/-TODO-DFFD26
 [DOING]: https://img.shields.io/badge/-DOING-31AE0F
 [DONE]: https://img.shields.io/badge/-DONE-0885CC
