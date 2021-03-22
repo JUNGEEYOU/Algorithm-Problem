@@ -5,7 +5,7 @@
 | 00   | Data Structure               | 자료구조            | [바로가기][Data Structure]   | ![status][TODO]  |
 | 01   | Data Structure 2             | 자료구조 2          | [바로가기][Data Structure2]  | ![status][TODO]  |
 | 02   | Math                         | 수학                | [바로가기][Math]   |  ![status][TODO]  |
-| 03   | Greedy                       | 탐욕법              | [바로가기][Greedy]  |  ![status][TODO]  |
+| 03   | Greedy                       | 탐욕법              | [바로가기][Greedy]  |  ![status][DOING]  |
 | 04   | Dynamic Programming 1        | 동적계획법 1        | [바로가기][DP1]   |  ![status][TODO]  |
 | 05   | Dynamic Programming 2        | 동적계획법 2        | [바로가기][DP2]   |  ![status][TODO]  |
 | 06   | Two Pointer                  | 투 포인터           | [바로가기][Two Pointer]   |  ![status][TODO]  |
