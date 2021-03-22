@@ -73,3 +73,8 @@
 | 56 |                      | <a href="http://boj.kr/1082" target="_blank">방 번호</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      | |
 | 57 |                      | <a href="http://boj.kr/12931" target="_blank">두 배 더하기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      | |
 | 58 |                      | <a href="http://boj.kr/18234" target="_blank">당근 훔쳐 먹기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      | |
+
+
+[TODO]: https://img.shields.io/badge/-TODO-DFFD26
+[DOING]: https://img.shields.io/badge/-DOING-31AE0F
+[DONE]: https://img.shields.io/badge/-DONE-0885CC
