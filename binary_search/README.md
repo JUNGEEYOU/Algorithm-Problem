@@ -31,7 +31,7 @@
 | 14 |  :heavy_check_mark:  | <a href="http://boj.kr/2473" target="_blank">세 용액</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |                      |
 | 15 |  :heavy_check_mark:  | <a href="http://boj.kr/13397" target="_blank">구간 나누기 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |                      |
 | 16 |  :heavy_check_mark:  | <a href="http://boj.kr/2412" target="_blank">암벽 등반</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |                      |
-| 17 |  :heavy_check_mark:  | <a href="http://boj.kr/1300" target="_blank">K번째 수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |                      |
+| 17 |  :heavy_check_mark:  | <a href="http://boj.kr/1300" target="_blank">K번째 수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |    ![status][DOING]                   |
 | 18 |  :heavy_check_mark:  | <a href="http://boj.kr/7453" target="_blank">합이 0인 네 정수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |                      |
 | 19 |                      | <a href="http://boj.kr/17266" target="_blank">어두운 굴다리</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      |                      |
 | 20 |                      | <a href="http://boj.kr/1920" target="_blank">수 찾기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |      [바로가기](./baekjoon/1920.py)       |      ![status][DONE]                 |
@@ -79,7 +79,6 @@
 | 62 |                      | <a href="http://boj.kr/1561" target="_blank">놀이 공원</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |                      |
 | 63 |                      | <a href="http://boj.kr/15732" target="_blank">도토리 숨기기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |                      |
 | 64 |                      | <a href="http://boj.kr/6209" target="_blank">제자리 멀리뛰기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |                      |
-![status][TODO] 
 
 [TODO]: https://img.shields.io/badge/-TODO-DFFD26
 [DOING]: https://img.shields.io/badge/-DOING-31AE0F
