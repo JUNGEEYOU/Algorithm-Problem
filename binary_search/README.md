@@ -12,7 +12,7 @@
 
 [백준 문제집](https://www.acmicpc.net/workbook/view/7277)
 
-|          순번          |        추천 문제         |        문제 이름         |         난이도          |        풀이 링크         |        풀이 상       |   
+|          순번          |        추천 문제         |        문제 이름         |         난이도          |        풀이 링크         |        풀이 상태      |   
 | :-----: | :-----: | :-----: | :-----: | :-----: |:-----: |
 | 00 |  :heavy_check_mark:  ttp://boj.k| <a href="http://boj.kr/1789" target="_blank">수들의 합</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      |      ![status][TODO]               |
 | 01 |  :heavy_check_mark:  | <a href="hr/2417" target="_blank">정수 제곱근</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      |                      |
