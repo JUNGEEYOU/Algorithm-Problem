@@ -14,8 +14,8 @@
 
 |          순번          |        추천 문제         |        문제 이름         |         난이도          |        풀이 링크         |        풀이 상       |   
 | :-----: | :-----: | :-----: | :-----: | :-----: |:-----: |
-| 00 |  :heavy_check_mark:  | <a href="http://boj.kr/1789" target="_blank">수들의 합</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      |      ![status][TODO]               |
-| 01 |  :heavy_check_mark:  | <a href="http://boj.kr/2417" target="_blank">정수 제곱근</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      |                      |
+| 00 |  :heavy_check_mark:  ttp://boj.k| <a href="http://boj.kr/1789" target="_blank">수들의 합</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      |      ![status][TODO]               |
+| 01 |  :heavy_check_mark:  | <a href="hr/2417" target="_blank">정수 제곱근</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      |                      |
 | 02 |  :heavy_check_mark:  | <a href="http://boj.kr/10815" target="_blank">숫자 카드</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      |                      |
 | 03 |  :heavy_check_mark:  | <a href="http://boj.kr/2805" target="_blank">나무 자르기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |                      |
 | 04 |  :heavy_check_mark:  | <a href="http://boj.kr/1654" target="_blank">랜선 자르기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |  [바로가기](./baekjoon/1654.py)       |   ![status][DONE]                    |
@@ -79,6 +79,15 @@
 | 62 |                      | <a href="http://boj.kr/1561" target="_blank">놀이 공원</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |                      |
 | 63 |                      | <a href="http://boj.kr/15732" target="_blank">도토리 숨기기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |                      |
 | 64 |                      | <a href="http://boj.kr/6209" target="_blank">제자리 멀리뛰기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |                      |
+
+
+프로그래머스 
+
+|          순번          |        추천 문제         |        문제 이름         |         난이도          |        풀이 링크         |        풀이 상       |   
+| :-----: | :-----: | :-----: | :-----: | :-----: |:-----: |
+| 00 |  :heavy_check_mark: | <a href="https://programmers.co.kr/learn/courses/30/lessons/64062" target="_blank">징검다리 건너기</a> |  |           |      ![status][TODO]               |
+| 01 |  :heavy_check_mark:  | <a href="https://programmers.co.kr/learn/courses/30/lessons/60060" target="_blank">가사 검색</a> | |                      |      ![status][TODO]                 |
+
 
 [TODO]: https://img.shields.io/badge/-TODO-DFFD26
 [DOING]: https://img.shields.io/badge/-DOING-31AE0F
