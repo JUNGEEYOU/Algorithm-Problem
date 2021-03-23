@@ -85,10 +85,11 @@
 
 |          순번          |        추천 문제         |        문제 이름         |         난이도          |        풀이 링크         |        풀이 상       |   
 | :-----: | :-----: | :-----: | :-----: | :-----: |:-----: |
-| 00 |  :heavy_check_mark: | <a href="https://programmers.co.kr/learn/courses/30/lessons/64062" target="_blank">징검다리 건너기</a> |  |           |      ![status][TODO]               |
+| 00 |  :heavy_check_mark: | <a href="https://programmers.co.kr/learn/courses/30/lessons/64062" target="_blank">징검다리 건너기</a> |  |           |      ![status][RETRY]               |
 | 01 |  :heavy_check_mark:  | <a href="https://programmers.co.kr/learn/courses/30/lessons/60060" target="_blank">가사 검색</a> | |                      |      ![status][TODO]                 |
 
 
 [TODO]: https://img.shields.io/badge/-TODO-DFFD26
 [DOING]: https://img.shields.io/badge/-DOING-31AE0F
 [DONE]: https://img.shields.io/badge/-DONE-0885CC
+[RETRY]: https://img.shields.io/badge/-RETRY-red
