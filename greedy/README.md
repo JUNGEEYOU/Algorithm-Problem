@@ -63,7 +63,7 @@
 | 46 |                      | <a href="http://boj.kr/11509" target="_blank">풍선 맞추기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      | |
 | 47 |                      | <a href="http://boj.kr/17615" target="_blank">볼 모으기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      | |
 | 48 |                      | <a href="http://boj.kr/19539" target="_blank">사과나무</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      | |
-| 49 |                      | <a href="http://boj.kr/16206" target="_blank">롤케이크</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      | |
+| 49 |                      | <a href="http://boj.kr/16206" target="_blank">롤케이크</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](./baekjoon/1449.py)         |![status][DONE]  |
 | 50 |                      | <a href="http://boj.kr/20117" target="_blank">호반우 상인의 이상한 품질 계산법</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |     |                  |
 | 51 |                      | <a href="http://boj.kr/1374" target="_blank">강의실</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      | |
 | 52 |                      | <a href="http://boj.kr/6068" target="_blank">시간 관리하기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      | |
