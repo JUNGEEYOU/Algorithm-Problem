@@ -85,8 +85,8 @@
 
 |          순번          |        추천 문제         |        문제 이름         |         난이도          |        풀이 링크         |        풀이 상       |   
 | :-----: | :-----: | :-----: | :-----: | :-----: |:-----: |
-| 00 |  :heavy_check_mark: | <a href="https://programmers.co.kr/learn/courses/30/lessons/64062" target="_blank">징검다리 건너기</a> |  |           |      ![status][RETRY]               |
-| 01 |  :heavy_check_mark:  | <a href="https://programmers.co.kr/learn/courses/30/lessons/60060" target="_blank">가사 검색</a> | |                      |      ![status][TODO]                 |
+| 00 |  :heavy_check_mark: | <a href="https://programmers.co.kr/learn/courses/30/lessons/64062" target="_blank">징검다리 건너기</a> |  |  [바로가기](./programmers/64062.py)    |      ![status][RETRY]               |
+| 01 |  :heavy_check_mark:  | <a href="https://programmers.co.kr/learn/courses/30/lessons/60060" target="_blank">가사 검색</a> | |      [바로가기](./programmers/60060.py)     |      ![status][DONE]                 |
 
 
 [TODO]: https://img.shields.io/badge/-TODO-DFFD26
