@@ -13,7 +13,7 @@
 [백준 문제집](https://www.acmicpc.net/workbook/view/6780)
 
 |          순번          |        추천 문제         |        문제 이름         |         난이도          |        풀이 링크         |      풀이 상태      | 
-| :-----: | :-----: | :-----: | :-----: | :-----: |
+| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 |  :heavy_check_mark:  | <a href="http://boj.kr/1620" target="_blank">나는야 포켓몬 마스터 이다솜</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      ||
 | 01 |  :heavy_check_mark:  | <a href="http://boj.kr/14425" target="_blank">문자열 집합</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      ||
 | 02 |  :heavy_check_mark:  | <a href="http://boj.kr/11279" target="_blank">최대 힙</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |   [바로가기](./baekjoon/11279.py) |![status][DONE] |
