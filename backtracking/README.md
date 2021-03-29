@@ -63,7 +63,7 @@
 | 43 |                      | <a href="http://boj.kr/1189" target="_blank">컴백홈</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      ||
 | 44 |                      | <a href="http://boj.kr/19942" target="_blank">다이어트</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      ||
 | 45 |                      | <a href="http://boj.kr/18290" target="_blank">NM과 K (1)</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                    |  |
-| 46 |                      | <a href="http://boj.kr/1497" target="_blank">기타콘서트</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |    [바로가기](./baekjoon/1497.py)  |![status][DOING]|
+| 46 |                      | <a href="http://boj.kr/1497" target="_blank">기타콘서트</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |    [바로가기](./baekjoon/1497.py)  |![status][DONE]|
 | 47 |                      | <a href="http://boj.kr/15566" target="_blank">개구리 1</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      ||
 | 48 |                      | <a href="http://boj.kr/1759" target="_blank">암호 만들기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      ||
 | 49 |                      | <a href="http://boj.kr/15684" target="_blank">사다리 조작</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      ||

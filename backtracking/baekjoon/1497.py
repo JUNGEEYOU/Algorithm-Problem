@@ -3,9 +3,15 @@ import sys
 n, m = map(int, sys.stdin.readline().split())
 arr = []
 visit = [False] * n
-result = 11
+result = []
+all_n = True
 for _ in range(n):
     _, b = map(str, sys.stdin.readline().split())
+    if all_n:
+        for i in b:
+            if i == "Y":
+                all_n = False
+                break
     arr.append(b)
 
 def dfs(cnt):
@@ -19,18 +25,21 @@ def dfs(cnt):
                 for j, a in enumerate(arr[i]):
                     if a == "Y":  # 만약 연주할수 있는 곡인 경우
                         song[j] = True
-        flag = True
+        song_cnt = 0
         for t in song:   # 모든 곡이 True인 경우를 확인
-            if not t:
-                flag = False
-        if flag:     # 모든 곡이 true이면 최소값 등록
-            result = min(result, count)
+            if t:
+                song_cnt += 1
+        result.append((song_cnt, count))
         return
     visit[cnt] = True
     dfs(cnt + 1)
     visit[cnt] = False
     dfs(cnt + 1)
 
-dfs(0)
-result = -1 if result == 11 else result
-print(result)
+
+if not all_n:
+    dfs(0)
+    result.sort(key=lambda x: (-x[0], x[1]))
+    print(result[0][1])
+else:
+    print(-1)
