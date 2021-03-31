@@ -25,18 +25,18 @@
 | 05 |  :heavy_check_mark:  | <a href="http://boj.kr/15655" target="_blank">N과 M (6)</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> | [바로가기](./baekjoon/15655.py)    |![status][DONE]|
 | 06 |  :heavy_check_mark:  | <a href="http://boj.kr/15656" target="_blank">N과 M (7)</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |   [바로가기](./baekjoon/15656.py)  |![status][DONE]|
 | 07 |  :heavy_check_mark:  | <a href="http://boj.kr/15657" target="_blank">N과 M (8)</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |   [바로가기](./baekjoon/15657.py)    |![status][DONE]|
-| 08 |  :heavy_check_mark:  | <a href="http://boj.kr/15663" target="_blank">N과 M (9)</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |    [바로가기](./baekjoon/15663.py)   |![status][DOING]|
-| 09 |  :heavy_check_mark:  | <a href="http://boj.kr/15664" target="_blank">N과 M (10)</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      ||
-| 10 |  :heavy_check_mark:  | <a href="http://boj.kr/15665" target="_blank">N과 M (11)</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      ||
-| 11 |  :heavy_check_mark:  | <a href="http://boj.kr/15666" target="_blank">N과 M (12)</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      ||
-| 12 |  :heavy_check_mark:  | <a href="http://boj.kr/1182" target="_blank">부분수열의 합</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |   [바로가기](./baekjoon/1182.py)   |![status][DOING]|
-| 13 |  :heavy_check_mark:  | <a href="http://boj.kr/10971" target="_blank">외판원 순회 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      ||
+| 08 |  :heavy_check_mark:  | <a href="http://boj.kr/15663" target="_blank">N과 M (9)</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |    [바로가기](./baekjoon/15663.py)   |![status][DONE]|
+| 09 |  :heavy_check_mark:  | <a href="http://boj.kr/15664" target="_blank">N과 M (10)</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |  [바로가기](./baekjoon/15664.py) |![status][DONE]|
+| 10 |  :heavy_check_mark:  | <a href="http://boj.kr/15665" target="_blank">N과 M (11)</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |  [바로가기](./baekjoon/15665.py)|![status][DONE]|
+| 11 |  :heavy_check_mark:  | <a href="http://boj.kr/15666" target="_blank">N과 M (12)</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |  [바로가기](./baekjoon/15666.py) |![status][DONE]|
+| 12 |  :heavy_check_mark:  | <a href="http://boj.kr/1182" target="_blank">부분수열의 합</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |   [바로가기](./baekjoon/1182.py)   |![status][DONE]|
+| 13 |  :heavy_check_mark:  | <a href="http://boj.kr/10971" target="_blank">외판원 순회 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |   [바로가기](./baekjoon/10971.py)   |![status][DONE]|
 | 14 |  :heavy_check_mark:  | <a href="http://boj.kr/16987" target="_blank">계란으로 계란치기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      ||
 | 15 |  :heavy_check_mark:  | <a href="http://boj.kr/14712" target="_blank">넴모넴모 (Easy)</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      ||
-| 16 |  :heavy_check_mark:  | <a href="http://boj.kr/14888" target="_blank">연산자 끼워넣기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      ||
+| 16 |  :heavy_check_mark:  | <a href="http://boj.kr/14888" target="_blank">연산자 끼워넣기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |  [바로가기](./baekjoon/14888.py)  |![status][DONE]|
 | 17 |  :heavy_check_mark:  | <a href="http://boj.kr/1174" target="_blank">줄어드는 숫자</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      ||
 | 18 |  :heavy_check_mark:  | <a href="http://boj.kr/18430" target="_blank">무기 공학</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      ||
-| 19 |  :heavy_check_mark:  | <a href="http://boj.kr/9663" target="_blank">N-Queen</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      ||
+| 19 |  :heavy_check_mark:  | <a href="http://boj.kr/9663" target="_blank">N-Queen</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./baekjoon/9663.py)  |![status][DONE]|
 | 20 |  :heavy_check_mark:  | <a href="http://boj.kr/2580" target="_blank">스도쿠</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      ||
 | 21 |  :heavy_check_mark:  | <a href="http://boj.kr/1062" target="_blank">가르침</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      ||
 | 22 |  :heavy_check_mark:  | <a href="http://boj.kr/2661" target="_blank">좋은수열</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      ||
@@ -44,8 +44,8 @@
 | 24 |  :heavy_check_mark:  | <a href="http://boj.kr/6443" target="_blank">애너그램</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      ||
 | 25 |  :heavy_check_mark:  | <a href="http://boj.kr/17136" target="_blank">색종이 붙이기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                   |   |
 | 26 |  :heavy_check_mark:  | <a href="http://boj.kr/1799" target="_blank">비숍</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      ||
-| 27 |                      | <a href="http://boj.kr/14889" target="_blank">스타트와 링크</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                 |     |
-| 28 |                      | <a href="http://boj.kr/10974" target="_blank">모든 순열</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                     | |
+| 27 |                      | <a href="http://boj.kr/14889" target="_blank">스타트와 링크</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> | [바로가기](./baekjoon/14889.py)   |![status][DONE] |
+| 28 |                      | <a href="http://boj.kr/10974" target="_blank">모든 순열</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> | [바로가기](./baekjoon/10974.py) | ![status][DONE]|
 | 29 |                      | <a href="http://boj.kr/15658" target="_blank">연산자 끼워넣기 (2)</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |              |        |
 | 30 |                      | <a href="http://boj.kr/16922" target="_blank">로마 숫자 만들기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                  |    |
 | 31 |                      | <a href="http://boj.kr/18429" target="_blank">근손실</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |   [바로가기](./baekjoon/18429.py)   |![status][DONE]|
@@ -72,7 +72,7 @@
 | 52 |                      | <a href="http://boj.kr/1405" target="_blank">미친 로봇</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      ||
 | 53 |                      | <a href="http://boj.kr/1342" target="_blank">행운의 문자열</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                     | |
 | 54 |                      | <a href="http://boj.kr/7490" target="_blank">0 만들기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      ||
-| 55 |                      | <a href="http://boj.kr/13908" target="_blank">비밀번호</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      ||
+| 55 |                      | <a href="http://boj.kr/13908" target="_blank">비밀번호</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |  [바로가기](./baekjoon/13908.py)    |![status][DONE]|
 | 56 |                      | <a href="http://boj.kr/7682" target="_blank">틱택토</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      ||
 | 57 |                      | <a href="http://boj.kr/20208" target="_blank">진우의 민트초코우유</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |             |         |
 | 58 |                      | <a href="http://boj.kr/1469" target="_blank">숌 사이 수열</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                    |  |
