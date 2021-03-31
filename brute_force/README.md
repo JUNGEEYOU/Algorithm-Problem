@@ -16,7 +16,7 @@
 
 [백준 문제집](https://www.acmicpc.net/workbook/view/7271)
 
-|          순번          |        추천 문제         |        문제 이름         |         난이도          |        풀이 링크         ||
+|          순번          |        추천 문제         |        문제 이름         |         난이도          |        풀이 링크         |   풀이 상태 |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 |  :heavy_check_mark:  | <a href="http://boj.kr/2798" target="_blank">블랙잭</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> |                      ||
 | 01 |  :heavy_check_mark:  | <a href="http://boj.kr/2231" target="_blank">분해합</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> |                      ||
@@ -59,7 +59,7 @@
 | 38 |                      | <a href="http://boj.kr/18512" target="_blank">점프 점프</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/5.svg"/> |                      ||
 | 39 |                      | <a href="http://boj.kr/18868" target="_blank">멀티버스 Ⅰ</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/5.svg"/> |                      ||
 | 40 |                      | <a href="http://boj.kr/1436" target="_blank">영화감독 숌</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      ||
-| 41 |                      | <a href="http://boj.kr/1018" target="_blank">체스판 다시 칠하기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      ||
+| 41 |                      | <a href="http://boj.kr/1018" target="_blank">체스판 다시 칠하기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |[바로가기](./baekjoon/1018.py)  |![status][DONE]|
 | 42 |                      | <a href="http://boj.kr/7568" target="_blank">덩치</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      ||
 | 43 |                      | <a href="http://boj.kr/2435" target="_blank">기상청 인턴 신현수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      ||
 | 44 |                      | <a href="http://boj.kr/2635" target="_blank">수 이어가기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      ||
